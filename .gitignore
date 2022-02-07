@@ -2,6 +2,5 @@
 coverage/
 documentation/
 es/
-lib/
 node_modules/
 webpack.stats.json
